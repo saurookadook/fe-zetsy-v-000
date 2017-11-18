@@ -70,6 +70,7 @@ a:hover {
 	border: 5px solid #6F7F7A;
 }
 
-#copyright {
+#copyright p {
 	float: right;
+	font-size: 0.8em;
 }
