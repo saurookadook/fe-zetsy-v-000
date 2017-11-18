@@ -69,3 +69,7 @@ a:hover {
 #press img:hover {
 	border: 5px solid #6F7F7A;
 }
+
+#copyright {
+	float: right;
+}
