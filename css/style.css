@@ -52,6 +52,16 @@ img {
 	border: 5px solid #98ADA6;
 }
 
+#about p a {
+	color: #1783BB;
+	text-decoration: none;
+}
+
+#about p a:hover {
+	color: #1783BB;
+	text-decoration: underline;
+}
+
 a:hover {
 	color: #6F7F7A;
 }
