@@ -70,8 +70,13 @@ a:hover {
 	border: 5px solid #6F7F7A;
 }
 
-#copyright p {
+footer {
 	display: inline;
 	float: right;
+}
+
+#copyright p {
+	/*display: inline;
+	float: right;*/
 	font-size: 0.8em;
 }
