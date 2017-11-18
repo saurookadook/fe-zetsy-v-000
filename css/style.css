@@ -71,8 +71,8 @@ a:hover {
 }
 
 footer {
-	display: inline;
-	float: right;
+	text-align: right;
+	background: #fff;
 }
 
 #copyright p {
